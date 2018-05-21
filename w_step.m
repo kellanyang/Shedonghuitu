@@ -10,3 +10,5 @@ for i=1:length(w_array)
     step(Gss);
     hold on
 end
+
+%add
